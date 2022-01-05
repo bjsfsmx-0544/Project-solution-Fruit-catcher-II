@@ -3,4 +3,4 @@ Referencia de la maestra - Solución del proyecto.
 Atrapa frutas. Etapa 2.  
 Firebase activo.
 
-Texto en inglés: project-solution-Fruit-catcher-II
+### Texto en inglés: project-solution-Fruit-catcher-II
